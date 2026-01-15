@@ -16,7 +16,7 @@ python DFEI.py  --domains [0,1,2,4,5,6] --use_domainid 0 --verbose 200 --batch_s
 The instruction of commands has been clearly stated in the codes (see the parse_args function).
 
 # Dataset
-We use the public KuaiRand-1K dataset [https://github.com/chongminggao/KuaiRand].
+We use the public KuaiRand-1K dataset [https://github.com/chongminggao/KuaiRand]. 
 
-Last Update Date: Jul. 14, 2025 (UTC+8)
+Last Update Date: Jan. 15, 2026 (UTC+8)
 
