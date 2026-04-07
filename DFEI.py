@@ -3,7 +3,7 @@
 Tensorflow implementation of Automatic Domain Feature Extraction and Integration (ADFEI) framework.
 The source code for the paper: Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature Extraction and Integration Framework
 @author: Anonymous
-python = 3.6 
+python = 3.6
 tensorflow = 1.15.0
 """
 import argparse
